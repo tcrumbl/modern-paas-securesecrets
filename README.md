@@ -1,4 +1,4 @@
-# modern-Paas-securesecrets
+# modern-PaaS-securesecrets
 
 # 🔑 Lab 03 — Modernizing to PaaS & Securing Secrets
 
